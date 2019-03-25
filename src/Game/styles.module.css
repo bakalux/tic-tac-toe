@@ -1,0 +1,21 @@
+.container {
+  height: 500px;
+  margin: auto;
+  width: 247px;
+}
+
+.line {
+  background: lightblue;
+  display: flex;
+  flex-direction: row;
+}
+
+.info {
+  padding: 5px;
+  text-align: center;
+}
+
+.reset {
+  margin-bottom: 5px;
+  margin-left: 97px;
+}
